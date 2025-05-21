@@ -3,7 +3,7 @@
 
 
  Here are the goals of this lab.
- 
+ //blergh
  1. When directed, you will take your Chicago flag code from Part1 and copy it below.  Make sure it looks right before going on. Do not do it yet.
  
  2. I want you to make it so that if you tap on either of the two middle stars,  it will toggle (.toggle) all stars color from red to green. It should go back and forth with all the colors
