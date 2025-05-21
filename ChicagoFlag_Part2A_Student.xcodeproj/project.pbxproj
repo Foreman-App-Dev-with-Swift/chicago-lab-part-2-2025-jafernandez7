@@ -106,7 +106,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 194455D725FB9DCF007F73A2 /* Build configuration list for PBXProject "ChicagoFlag_Part2_Pollak_Answer_Key" */;
+			buildConfigurationList = 194455D725FB9DCF007F73A2 /* Build configuration list for PBXProject "ChicagoFlag_Part2A_Student" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -273,7 +273,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"ChicagoFlag/Preview Content\"";
-				DEVELOPMENT_TEAM = C9R28U8B2L;
+				DEVELOPMENT_TEAM = 8JNJLR4BUM;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = ChicagoFlag/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -295,7 +295,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"ChicagoFlag/Preview Content\"";
-				DEVELOPMENT_TEAM = C9R28U8B2L;
+				DEVELOPMENT_TEAM = 8JNJLR4BUM;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = ChicagoFlag/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		194455D725FB9DCF007F73A2 /* Build configuration list for PBXProject "ChicagoFlag_Part2_Pollak_Answer_Key" */ = {
+		194455D725FB9DCF007F73A2 /* Build configuration list for PBXProject "ChicagoFlag_Part2A_Student" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				194455E925FB9DD1007F73A2 /* Debug */,
