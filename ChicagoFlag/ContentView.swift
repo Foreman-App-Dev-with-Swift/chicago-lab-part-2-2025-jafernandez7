@@ -262,8 +262,20 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            
-            
+            Button {
+                buttonClick.toggle()
+            } label: {
+                Text("Press Button")
+            }
+            Rectangle()
+                .foregroundColor(buttonClick ? .blue : .orange)
+                .frame(width:50, height: 50)
+            Button {
+                buttonClick.toggle()
+            } label: {
+                Image("ChicagoStar")
+                    .foregroundColor(buttonClick ? .green : .gray)
+            }
             Text("Hello World!")
             
             
