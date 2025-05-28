@@ -273,7 +273,7 @@ struct ContentView: View {
             Button {
                 buttonClick.toggle()
             } label: {
-                Image("ChicagoStar")
+                Image("chicagoStar")
                     .foregroundColor(buttonClick ? .green : .gray)
             }
             Text("Hello World!")
